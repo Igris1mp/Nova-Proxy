@@ -6,7 +6,7 @@
   <a href="README.fa.md"><img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/main/flag-iran.svg" height="16" alt="Iran (Lion and Sun)" /> فارسی</a>
 </div>
 
-# Nova Proxy
+# IGRIS M.P
 
 **A personal, censorship-resistant proxy + dashboard on a single Cloudflare Worker.**
 
