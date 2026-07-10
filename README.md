@@ -36,9 +36,9 @@ accounts, a Telegram bot, WARP, proxy chaining, and backend mode. Runs on Cloudf
 
 ---
 
-## 📖 What is Nova Proxy?
+## 📖 What is IGRIS M.P?
 
-Nova Proxy is a **personal, all-in-one censorship-circumvention proxy** that runs entirely on Cloudflare Workers — the **free tier**. It combines a powerful proxy (VLESS, Trojan, Shadowsocks over WebSocket/gRPC/XHTTP) with a **full bilingual admin dashboard**, all in a single deployable Worker.
+IGRIS M.P is a **personal, all-in-one censorship-circumvention proxy** that runs entirely on Cloudflare Workers — the **free tier**. It combines a powerful proxy (VLESS, Trojan, Shadowsocks over WebSocket/gRPC/XHTTP) with a **full bilingual admin dashboard**, all in a single deployable Worker.
 
 **What makes Nova different:**
 - ⚡ **Zero infrastructure** — no VPS, no domain needed to start
