@@ -55,7 +55,7 @@ IGRIS M.P is a **personal, all-in-one censorship-circumvention proxy** that runs
 
 Choose your preferred method:
 
-### 🖥️ Nova Wizard (Desktop)
+### 🖥️ IGRIS M.P Wizard (Desktop)
 
 The official desktop installer with a graphical interface — no technical knowledge required.
 
@@ -215,7 +215,7 @@ After running the installer, enable Backend Mode in the Nova panel (Network Sett
 
 ## 💜 Support
 
-If Nova helps you, please **⭐ star the repo** and consider a small donation — it keeps the project alive and free for everyone.
+If IGRIS M.P helps you, please **⭐ star the repo** and consider a small donation — it keeps the project alive and free for everyone.
 
 <div align="center">
 
